@@ -3,9 +3,7 @@
 This will create a package.json file. You can use the below code to create with default values
 
 <code> 
-
     npm init -y 
-
 </code> 
 
 ## Basic packages that are required
